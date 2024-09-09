@@ -3,3 +3,6 @@
 members = [
     "crates/*",
 ]
+
+[workspace.dependencies]
+tokio = "1.40.0"
